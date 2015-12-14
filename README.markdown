@@ -79,6 +79,15 @@ Publish your code, wait for some visitors to come...
 
 TODO
 
+## Acknowledgments
+
+This library is based on the work of Daniele Mazzini in
+[ABalytics](https://github.com/danmaz74/ABalytics). If you have a need for
+integration with Google Analytics, you might check that out.
+
+For more information on how I thought about creating this, check out
+[my blog post on creating HeapAB](http://www.panozzaj.com/blog/2015/12/13/split-testing-static-sites/).
+
 ## License
 
 The MIT License (MIT)
